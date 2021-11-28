@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to eCTD info site
+
+this site is udner construction ...
+
+email: eCTD4.0 [at] gmail.com
 
 You can use the [editor on GitHub](https://github.com/ectd4/ectd.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
